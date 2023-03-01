@@ -1,5 +1,7 @@
 # mkpass
 
+[![Rust](https://github.com/seekincs/mkpass/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/seekincs/mkpass/actions/workflows/rust.yml)
+
 Command line tool to generate passwords, built with [Rust](https://www.rust-lang.org/).
 
 ## Installation
